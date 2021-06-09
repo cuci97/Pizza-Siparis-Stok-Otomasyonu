@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Pizza_Siparis_Stok_Otomasyonu.Form1" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CCAAEAEAACQAABAAAACABAACAAAaAEQEMGAAAiDAAAI=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pizza_Siparis_Stok_Otomasyonu.Form2" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>/yAAIpEgRCAggBAYAACAQAhCJEAoAAxCMFAJAIBAADA=</HashCode>
+      <FileName>Form2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pizza_Siparis_Stok_Otomasyonu.Form3">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EQAAIlAAgDACIKgAEACAQAACRMA5AAEAAHQOAgBAAAA=</HashCode>
+      <FileName>Form3.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pizza_Siparis_Stok_Otomasyonu.Form4" Collapsed="true">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CCAAIAEAASQkgBSQAACALABCIAg6AMQAMHAAAqEAACI=</HashCode>
+      <FileName>Form4.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pizza_Siparis_Stok_Otomasyonu.Form5" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>/yCAQAEACSCEwDSRFICACIlCIM07wEAg8HAfQCBRRLQ=</HashCode>
+      <FileName>Form5.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pizza_Siparis_Stok_Otomasyonu.Form6" Collapsed="true">
+    <Position X="2.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>9yAAAAAACSAAgFCREICACABCAEw4AAAA8HAIAQAAQKA=</HashCode>
+      <FileName>Form6.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pizza_Siparis_Stok_Otomasyonu.Form7" Collapsed="true">
+    <Position X="6" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>4yAEEjgogSElgBCSAByAiFBCIkk8AFgBMHAIAIAAgKA=</HashCode>
+      <FileName>Form7.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pizza_Siparis_Stok_Otomasyonu.Form8" Collapsed="true">
+    <Position X="6" Y="1.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAgAQAAACACAACQEg4AAIAIHAIAIAAggA=</HashCode>
+      <FileName>Form8.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pizza_Siparis_Stok_Otomasyonu.Form10" Collapsed="true">
+    <Position X="8.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAgAQAAACAAAACQEAoAAIAIFAIAICAAgA=</HashCode>
+      <FileName>Form10.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pizza_Siparis_Stok_Otomasyonu.Form11">
+    <Position X="0.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAASAAgBAAAACACABCIAgYAAAAMGAAAACAACA=</HashCode>
+      <FileName>Form11.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
